@@ -1,0 +1,6 @@
+/.idea
+/.git
+/custom/*
+!/custom/.gitkeep
+/leads.db
+/leads.csv
